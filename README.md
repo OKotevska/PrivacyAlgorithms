@@ -1,5 +1,5 @@
 ## Privacy Algorithms for Streaming Data
-This repository contains implemented local differential privacy algorithms in Python.
+This repository contains implementation of differential privacy algorithms in Python.
 
 For any questions please contact me on kotevskao@ornl.gov.
 
